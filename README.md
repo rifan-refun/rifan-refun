@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rifan-refun
-- 👀 I’m interested in Machine Learning and Data Specialist
+- 👀 I’m interested in AI, Machine Learning and Software Engineering 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any tech platform
 - 📫 How to reach me (@gwrefun) 
